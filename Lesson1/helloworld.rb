@@ -11,5 +11,5 @@ last_name = gets.chomp
 puts "What is your age?"
 age = gets.chomp
 
-
+puts "Hi There"
 puts "Hello #{first_name} #{last_name} , you are #{age}"
